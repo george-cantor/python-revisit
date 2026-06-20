@@ -14,8 +14,6 @@ A day-wise repository for revising Python fundamentals through notes and practic
 * Functions
 * Modules and Packages
 * File Handling
-* Exception Handling
-* Object-Oriented Programming
 * NumPy
 * Pandas
 * Matplotlib
